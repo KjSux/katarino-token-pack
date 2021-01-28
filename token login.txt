@@ -6,3 +6,5 @@ setTimeout(() => {
 location.reload();
 }, 2500);
 }
+
+login("Le token")
